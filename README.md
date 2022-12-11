@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following as a guide:
 
 This project was created to note everything that was learned in the prework to help Boot camp students who are going through prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
